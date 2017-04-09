@@ -1,6 +1,8 @@
 # trnt
 Pure HTML and CSS turntable, music loading spinner.
 
+[Demo](https://digisz.github.io/trnt/)
+
 ## installation
 
 put this into wherever the animation should appear
